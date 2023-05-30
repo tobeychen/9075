@@ -1,0 +1,541 @@
+{
+	"info": {
+		"_postman_id": "b1b9f49c-491a-4bb1-a66e-8106a98f097e",
+		"name": "Healthcare API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Search API",
+			"item": [
+				{
+					"name": "Search for service",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"value": "{{x-api-key}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/healthcareServices/_search?responseControl.offset=0&responseControl.limit=20&requestContext.serviceDeliveryMethod=PHYSICAL&location.proximity.near_distance=1000000&location.within.geoArea.boundingBox.top_left=-33.87114385866478%2C151.15978409382933&location.within.geoArea.boundingBox.bottom_right=-33.889777524044106%2C151.22720409962767&location.proximity.near=-33.880461199999985%2C151.1934940967285&filter.serviceType.codes=nhsd%3A%2Freference%2Ftaxonomies%2Fsnomed-servicetype%2F1223091000168105",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"healthcareServices",
+								"_search"
+							],
+							"query": [
+								{
+									"key": "responseControl.offset",
+									"value": "0"
+								},
+								{
+									"key": "responseControl.limit",
+									"value": "20"
+								},
+								{
+									"key": "requestContext.serviceDeliveryMethod",
+									"value": "PHYSICAL"
+								},
+								{
+									"key": "location.proximity.near_distance",
+									"value": "1000000"
+								},
+								{
+									"key": "location.within.geoArea.boundingBox.top_left",
+									"value": "-33.87114385866478%2C151.15978409382933"
+								},
+								{
+									"key": "location.within.geoArea.boundingBox.bottom_right",
+									"value": "-33.889777524044106%2C151.22720409962767"
+								},
+								{
+									"key": "location.proximity.near",
+									"value": "-33.880461199999985%2C151.1934940967285"
+								},
+								{
+									"key": "filter.serviceType.codes",
+									"value": "nhsd%3A%2Freference%2Ftaxonomies%2Fsnomed-servicetype%2F1223091000168105"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Service by ID",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"value": "{{x-api-key}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/healthcareServices/3643b86b-052b-46c3-b0ba-b8af4ef34ffd",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"healthcareServices",
+								"3643b86b-052b-46c3-b0ba-b8af4ef34ffd"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Operational Status API",
+			"item": [
+				{
+					"name": "Ge service status",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/healthcareServices/_operationalStatus/5d8541cd-db4c-8a8b-f7f2-959a53d7fb2e",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"healthcareServices",
+								"_operationalStatus",
+								"5d8541cd-db4c-8a8b-f7f2-959a53d7fb2e"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Reference API",
+			"item": [
+				{
+					"name": "Get Programs",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/reference/common/program",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"common",
+								"program"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get A Program",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/reference/common/program/abiAcquiredBrainInjuryProgram",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"common",
+								"program",
+								"abiAcquiredBrainInjuryProgram"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get FundingSources",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/reference/common/fundingSource",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"common",
+								"fundingSource"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get A FundingSource",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/reference/common/fundingSource/acha",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"common",
+								"fundingSource",
+								"acha"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get  Appointments",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/reference/common/appointment",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"common",
+								"appointment"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get  An Appointment",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/reference/common/appointment/conditional",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"common",
+								"appointment",
+								"conditional"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get  Eligibility",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/reference/common/eligibility",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"common",
+								"eligibility"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get  Facility",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/reference/common/facility",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"common",
+								"facility"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get  FeeAndBillingOption",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/reference/common/feeAndBillingOption",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"common",
+								"feeAndBillingOption"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get  Service Characteristics",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "https://api.nhsd.healthdirect.org.au/v5/reference/common/providerLocationServiceCharacteristic",
+							"protocol": "https",
+							"host": [
+								"api",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"common",
+								"providerLocationServiceCharacteristic"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get  Suburb Details",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "x-api-key",
+								"type": "text",
+								"value": "{{x-api-key}}"
+							}
+						],
+						"url": {
+							"raw": "consumerApiServer/v5/reference/geo/AUS.suburbs/abbey;6280",
+							"protocol": "https",
+							"host": [
+								"api",
+								"sba",
+								"nhsd",
+								"healthdirect",
+								"org",
+								"au"
+							],
+							"path": [
+								"v5",
+								"reference",
+								"geo",
+								"AUS.suburbs",
+								"abbey;6280"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
