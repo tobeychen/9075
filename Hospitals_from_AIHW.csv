@@ -1,0 +1,387 @@
+Hospital,State/ Territory,Remoteness area,Previous peer group,Current peer group,Peer group,lat,lon
+Armidale,NSW,Inner regional,Medium hospitals – group 1,Public acute group B hospitals,,-30.5035714,151.6523371
+Auburn,NSW,Major cities,Large hospitals – major city,Public acute group B hospitals,,43.675621,-79.44218400000001
+Ballina,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,-28.8627985,153.5658162
+Balmain,NSW,Major cities,Other non-acute hospitals,Public acute group D hospitals,,43.670122,-79.3923635
+Balranald (MPS),NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-34.6444943,143.5684133
+Bankstown/ Lidcombe,NSW,Major cities,Principal referral hospitals,Public acute group A hospitals,,-33.9177861,151.0263741
+Baradine (MPS),NSW,Remote,Multi-purpose services,Public acute group D hospitals,,-30.9452699,149.0662664
+Barham Koondrook,NSW,Outer regional,Small non-acute hospitals,Public acute group D hospitals,,-35.642752,144.1260831
+Barraba (MPS),NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-30.382269,150.6056662
+Batemans Bay,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,-35.7162174,150.1794566
+Bathurst,NSW,Inner regional,Large hospitals – regional & remote,Public acute group A hospitals,,43.893229,-79.46939619999999
+Batlow/ Adelong (MPS),NSW,Outer regional,Unpeered & other hospitals,Very small hospitals,,-35.5226421,148.1480804
+Bega,NSW,Outer regional,Medium hospitals – group 1,Public acute group B hospitals,,43.5156757,-79.6908705
+Bellinger River,NSW,Outer regional,Small non-acute hospitals,Public acute group C hospitals,,-30.4332051,152.7296388
+Belmont,NSW,Major cities,Medium hospitals – group 1,Public acute group B hospitals,,43.6747253,-79.3911316
+Berrigan (MPS),NSW,Outer regional,Unpeered & other hospitals,Public acute group D hospitals,,-35.6629541,145.8126076
+Bingara (MPS),NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-29.864026,150.5788989
+Blacktown,NSW,Major cities,Principal referral hospitals,Public acute group A hospitals,,-33.7660982,150.9126927
+Blayney (MPS),NSW,Inner regional,Unpeered & other hospitals,Very small hospitals,,-33.5379909,149.250624
+Blue Mountains,NSW,Major cities,Medium hospitals – group 2,Public acute group C hospitals,,44.5458789,-80.46168279999999
+Boggabri (MPS),NSW,Outer regional,Unpeered & other hospitals,Very small hospitals,,-30.7114616,150.0402624
+Bombala,NSW,Outer regional,Unpeered & other hospitals,Public acute group D hospitals,,-36.9108684,149.240079
+Bonalbo,NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-28.7364418,152.6227554
+Boorowa,NSW,Inner regional,Small acute hospitals – regional,Public acute group D hospitals,,-34.4364648,148.7167614
+Bourke (MPS),NSW,Remote,Small acute hospitals – remote,Public acute group D hospitals,,-30.0927312,145.9480627
+Bourke Street Health Service,NSW,Inner regional,Other non-acute hospitals,Mixed sub- & non-acute hospitals,,-34.74890120000001,149.7197076
+Bowral,NSW,Inner regional,Medium hospitals – group 1,Public acute group B hospitals,,-34.4802367,150.4176228
+Braeside,NSW,Major cities,Other non-acute hospitals,Mixed sub- & non-acute hospitals,,43.2145208,-80.35431030000001
+Braidwood (MPS),NSW,Inner regional,Multi-purpose services,Public acute group D hospitals,,-35.443796,149.8058611
+Brewarrina (MPS),NSW,Remote,Small acute hospitals – remote,Public acute group D hospitals,,-29.9614887,146.8640098
+Broken Hill,NSW,Outer regional,Medium hospitals – group 1,Public acute group B hospitals,,-31.9595859,141.4608138
+Bulahdelah - Myall Lakes,NSW,Inner regional,Unpeered & other hospitals,Very small hospitals,,-32.4165929,152.2087425
+Bulli,NSW,Major cities,Small non-acute hospitals,Public acute group C hospitals,,-34.3335025,150.9133384
+Byron Bay,NSW,Inner regional,Small acute hospitals – regional,Public acute group D hospitals,,-28.6419122,153.6105168
+Calvary,NSW,Major cities,Unpeered & other hospitals,Public rehabilitation hospitals,,43.6805494,-79.3456746
+Calvary Mater Newcastle,NSW,Major cities,Large hospitals – major city,Public acute group A hospitals,,-32.8986256,151.7206622
+Camden,NSW,Major cities,Small non-acute hospitals,Public acute group D hospitals,,51.5390261,-0.1425516
+Campbell Coraki,NSW,Inner regional,Unpeered & other hospitals,Very small hospitals,,-28.9943374,153.2798119
+Campbelltown,NSW,Major cities,Principal referral hospitals,Public acute group A hospitals,,-34.0666148,150.8195571
+Canowindra,NSW,Inner regional,Small acute hospitals – regional,Public acute group D hospitals,,-33.5622339,148.6648597
+Canterbury,NSW,Major cities,Large hospitals – major city,Public acute group B hospitals,,51.280233,1.0789089
+Casino,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,43.6494207,-79.3904462
+Cessnock,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,-32.8321587,151.3558797
+Children's Hospital Westmead,NSW,Major cities,Specialist women’s & children’s hospitals,Children’s hospitals,,-33.8015133,150.992002
+Cobar,NSW,Remote,Small non-acute hospitals,Public acute group D hospitals,,-31.497762,145.8362994
+Coffs Harbour,NSW,Inner regional,Principal referral hospitals,Public acute group A hospitals,,-30.2962013,153.1138924
+Coledale,NSW,Major cities,Other non-acute hospitals,Mixed sub- & non-acute hospitals,,43.8645405,-79.3435253
+Collarenebri (MPS),NSW,Remote,Unpeered & other hospitals,Very small hospitals,,-29.544873,148.5820433
+Concord,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,43.6409966,-79.39289769999999
+Condobolin,NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-33.0884693,147.1473483
+Coolah (MPS),NSW,Outer regional,Unpeered & other hospitals,Public acute group D hospitals,,-31.821537,149.709993
+Coolamon (MPS),NSW,Inner regional,Multi-purpose services,Public acute group D hospitals,,-34.8203087,147.1994772
+Cooma Health Service,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,-36.24153099999999,149.129742
+Coonabarabran,NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-31.2734198,149.2772344
+Coonamble (MPS),NSW,Remote,Small acute hospitals – remote,Public acute group D hospitals,,-30.964663,148.388105
+Cootamundra,NSW,Inner regional,Small acute hospitals – regional,Public acute group C hospitals,,-34.6386855,148.0240849
+Coral Tree Family Centre,NSW,Major cities,Psychiatric hospitals,"Public child, adolescent & young adult psychiatric hospitals",,-33.8045095,151.1266535
+Corowa,NSW,Inner regional,Small acute hospitals – regional,Public acute group C hospitals,,-35.9987227,146.3911991
+Cowra,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,-33.8346839,148.6911799
+Crookwell,NSW,Inner regional,Small non-acute hospitals,Public acute group D hospitals,,-34.4580448,149.4702871
+Cudal,NSW,Outer regional,Unpeered & other hospitals,Outpatient hospitals,,-33.2867614,148.7389367
+Culcairn (MPS),NSW,Inner regional,Multi-purpose services,Public acute group D hospitals,,-35.6675786,147.0422239
+Cumberland,NSW,Major cities,Psychiatric hospitals,Public acute psychiatric hospitals,,43.6594151,-79.39607099999999
+David Berry,NSW,Inner regional,Other non-acute hospitals,Mixed sub- & non-acute hospitals,,34.9897364,-81.94463220000002
+Delegate (MPS),NSW,Outer regional,Multi-purpose services,Very small hospitals,,-37.044956,148.945959
+Deniliquin,NSW,Inner regional,Small acute hospitals – regional,Public acute group C hospitals,,-35.5347037,144.9487606
+Denman (MPS),NSW,Inner regional,Unpeered & other hospitals,Very small hospitals,,-32.3892646,150.6845813
+Dorrigo (MPS),NSW,Outer regional,Multi-purpose services,Public acute group D hospitals,,-30.3406825,152.7138348
+Dubbo,NSW,Inner regional,Principal referral hospitals,Public acute group A hospitals,,-32.2443908,148.614418
+Dunedoo (MPS),NSW,Outer regional,Unpeered & other hospitals,Very small hospitals,,-32.0171593,149.394465
+Dungog,NSW,Inner regional,Small acute hospitals – regional,Public acute group D hospitals,,-32.3998381,151.757979
+Eugowra (MPS),NSW,Outer regional,Unpeered & other hospitals,Very small hospitals,,-33.4239687,148.369671
+Fairfield,NSW,Major cities,Large hospitals – major city,Public acute group B hospitals,,43.0898664,-79.08097339999999
+Finley,NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,43.6466681,-79.40713500000001
+Forbes,NSW,Outer regional,Small acute hospitals – regional,Public acute group C hospitals,,43.6488482,-79.39296929999999
+Gilgandra (MPS),NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-31.7041871,148.6558646
+Glen Innes,NSW,Outer regional,Small acute hospitals – regional,Public acute group C hospitals,,-29.7374479,151.738347
+Gloucester,NSW,Inner regional,Small acute hospitals – regional,Public acute group C hospitals,,51.8642449,-2.238156
+Goodooga,NSW,Very remote,Unpeered & other hospitals,Outpatient hospitals,,-29.1149946,147.451116
+Gosford,NSW,Major cities,Principal referral hospitals,Public acute group A hospitals,,-33.426667,151.341667
+Goulburn,NSW,Inner regional,Large hospitals – regional & remote,Public acute group B hospitals,,-34.7567489,149.713629
+Gower Wilson (MPS),NSW,Very remote,Other non-acute hospitals,Very small hospitals,,-31.529121,159.0679924
+Grafton,NSW,Inner regional,Large hospitals – regional & remote,Public acute group B hospitals,,43.6394977,-79.44605829999999
+Greenwich,NSW,Major cities,Other non-acute hospitals,Mixed sub- & non-acute hospitals,,51.4933675,0.0098214
+Grenfell (MPS),NSW,Outer regional,Multi-purpose services,Very small hospitals,,43.2560917,-79.8775622
+Griffith,NSW,Outer regional,Medium hospitals – group 1,Public acute group A hospitals,,43.7183843,-79.2941706
+Gulargambone (MPS),NSW,Outer regional,Unpeered & other hospitals,Very small hospitals,,-31.3298542,148.4695818
+Gulgong,NSW,Outer regional,Unpeered & other hospitals,Outpatient hospitals,,-32.3625394,149.5335665
+Gundagai,NSW,Inner regional,Small non-acute hospitals,Public acute group D hospitals,,-35.060838,148.1018203
+Gunnedah,NSW,Outer regional,Small acute hospitals – regional,Public acute group C hospitals,,-30.97943189999999,150.2565037
+Guyra (MPS),NSW,Outer regional,Other non-acute hospitals,Public acute group D hospitals,,-30.2126794,151.679136
+Hawkesbury,NSW,Major cities,Large hospitals – major city,Public acute group B hospitals,,45.6071264,-74.60418899999999
+Hay,NSW,Outer regional,Small non-acute hospitals,Public acute group D hospitals,,43.6476464,-79.383028
+Henty (MPS),NSW,Inner regional,Unpeered & other hospitals,Very small hospitals,,-35.515688,147.0315229
+Hillston,NSW,Remote,Small non-acute hospitals,Public acute group D hospitals,,-33.4855373,145.5314081
+Holbrook,NSW,Inner regional,Small non-acute hospitals,Public acute group D hospitals,,43.6728304,-79.41535669999999
+Hornsby & Ku-Ring-Gai,NSW,Major cities,Principal referral hospitals,Public acute group A hospitals,,-33.7046328,151.0987055
+Hunter New England Mater Mental Health Service,NSW,Major cities,Psychiatric hospitals,Public acute psychiatric hospitals,,-32.8978809,151.7206715
+Illawarra Mental Health Services,NSW,Major cities,Unpeered & other hospitals,Unpeered hospitals,,-34.4261771,150.8911406
+Inverell,NSW,Outer regional,Medium hospitals – group 2,Public acute group C hospitals,,-29.7739244,151.1114386
+Ivanhoe,NSW,Very remote,Unpeered & other hospitals,Outpatient hospitals,,43.6440641,-79.3769932
+Jerilderie (MPS),NSW,Outer regional,Unpeered & other hospitals,Public acute group D hospitals,,-35.3566142,145.7202046
+John Hunter,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,43.3813018,-79.7830657
+Junee (MPS),NSW,Inner regional,Small non-acute hospitals,Public acute group D hospitals,,-34.8649396,147.5792262
+Justice Health,NSW,Major cities,Medium hospitals – group 1,Public forensic psychiatric hospitals,,43.6536433,-79.37277600000002
+Karitane Mothercraft Society,NSW,Major cities,Mothercraft hospitals,Early parenting centres,,43.6445612,-79.412183
+Kenmore,NSW,Inner regional,Psychiatric hospitals,Public sub- & non-acute psychiatric hospitals,,42.9658907,-78.870036
+Kiama,NSW,Inner regional,Other non-acute hospitals,Mixed sub- & non-acute hospitals,,-34.669198,150.8528343
+Kurri Kurri,NSW,Major cities,Small non-acute hospitals,Public acute group C hospitals,,-32.81723,151.4828306
+Kyogle (MPS),NSW,Inner regional,Small acute hospitals – regional,Public acute group D hospitals,,-28.6270208,153.0018304
+Lake Cargelligo (MPS),NSW,Outer regional,Multi-purpose services,Public acute group D hospitals,,-33.2919117,146.3740847
+Leeton,NSW,Outer regional,Small acute hospitals – regional,Public acute group C hospitals,,-34.5517791,146.4055582
+Lightning Ridge (MPS),NSW,Remote,Multi-purpose services,Public acute group D hospitals,,-29.4301988,147.9819618
+Lismore,NSW,Inner regional,Principal referral hospitals,Public acute group A hospitals,,-28.80943079999999,153.287891
+Lithgow,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,-33.4827345,150.1570173
+Liverpool,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,43.845106,-79.08373499999999
+Lockhart,NSW,Outer regional,Unpeered & other hospitals,Public acute group D hospitals,,43.6578124,-79.3453368
+Long Jetty,NSW,Major cities,Unpeered & other hospitals,Mixed sub- & non-acute hospitals,,-33.3565794,151.486092
+Lourdes Dubbo,NSW,Inner regional,Unpeered & other hospitals,Public rehabilitation hospitals,,-32.2376937,148.6278076
+Macksville,NSW,Outer regional,Medium hospitals – group 2,Public acute group C hospitals,,-30.7097946,152.9161732
+Maclean,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,43.65295,-79.38625119999999
+"Macleay Valley, Kempsey",NSW,Inner regional,Medium hospitals – group 1,Public acute group B hospitals,,-31.0806944,152.8424316
+Macquarie,NSW,Major cities,Psychiatric hospitals,Public acute psychiatric hospitals,,43.6471939,-79.37907
+Maitland,NSW,Major cities,Large hospitals – major city,Public acute group B hospitals,,43.6644081,-79.38226879999999
+Manilla (MPS),NSW,Outer regional,Small non-acute hospitals,Public acute group D hospitals,,14.5644279,120.9869911
+Manly,NSW,Major cities,Large hospitals – major city,Public acute group A hospitals,,43.6692196,-79.3927772
+Manning,NSW,Inner regional,Principal referral hospitals,Public acute group A hospitals,,43.6519057,-79.3980988
+Menindee Health Service,NSW,Remote,Multi-purpose services,Outpatient hospitals,,-32.3902365,142.4150007
+Mercy Care Centre Albury,NSW,Inner regional,Other non-acute hospitals,Mixed sub- & non-acute hospitals,,-36.0694722,146.9167652
+Mercy Care Centre Young,NSW,Inner regional,Other non-acute hospitals,Mixed sub- & non-acute hospitals,,-34.3204878,148.2886129
+Merriwa (MPS),NSW,Outer regional,Unpeered & other hospitals,Very small hospitals,,-32.1425337,150.361249
+Milton & Ulladulla,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,43.5182991,-79.8774042
+Molong,NSW,Inner regional,Unpeered & other hospitals,Public acute group D hospitals,,-33.0969536,148.8651239
+Mona Vale,NSW,Major cities,Large hospitals – major city,Public acute group A hospitals,,-33.6792734,151.3027199
+Moree,NSW,Outer regional,Medium hospitals – group 2,Public acute group C hospitals,,-29.465303,149.8415676
+Morisset,NSW,Inner regional,Psychiatric hospitals,Public sub- & non-acute psychiatric hospitals,,-33.1083696,151.4877925
+Moruya,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,-35.9056079,150.0817689
+Mount Druitt,NSW,Major cities,Medium hospitals – group 1,Public acute group B hospitals,,-33.76430089999999,150.8174413
+Mudgee,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,-32.5992508,149.5871313
+Mullumbimby ,NSW,Inner regional,Small acute hospitals – regional,Public acute group C hospitals,,-28.5531752,153.4996462
+Murrumburrah - Harden,NSW,Inner regional,Small acute hospitals – regional,Public acute group D hospitals,,-34.5532645,148.3680252
+Murrurundi,NSW,Outer regional,Unpeered & other hospitals,Public acute group D hospitals,,-31.7648534,150.8383217
+Murwillumbah,NSW,Inner regional,Medium hospitals – group 1,Public acute group C hospitals,,-28.3273536,153.3958252
+Muswellbrook,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,-32.2633134,150.8888195
+Narrabri,NSW,Outer regional,Small acute hospitals – regional,Public acute group C hospitals,,-30.3205203,149.7819951
+Narrandera ,NSW,Outer regional,Small acute hospitals – regional,Public acute group C hospitals,,-34.7478672,146.550356
+Narromine,NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-32.2328429,148.2394429
+Nepean,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,45.33490459999999,-75.7241006
+Neringah,NSW,Major cities,Unpeered & other hospitals,Mixed sub- & non-acute hospitals,,-33.7177813,151.1149353
+Nimbin (MPS),NSW,Inner regional,Unpeered & other hospitals,Very small hospitals,,-28.597566,153.223044
+Nyngan (MPS),NSW,Remote,Small acute hospitals – remote,Public acute group D hospitals,,-31.5618416,147.202262
+Oberon (MPS),NSW,Inner regional,Multi-purpose services,Public acute group D hospitals,,26.2702088,-81.7942959
+Orange Health Service,NSW,Inner regional,Principal referral hospitals,Public acute group A hospitals,,41.2696563,-72.9984009
+Pambula,NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-36.9292419,149.8748481
+Parkes,NSW,Outer regional,Small acute hospitals – regional,Public acute group C hospitals,,-33.1356614,148.1744534
+Peak Hill,NSW,Outer regional,Unpeered & other hospitals,Very small hospitals,,43.6495063,-79.3774554
+Port Kembla,NSW,Major cities,Rehabilitation hospitals,Mixed sub- & non-acute hospitals,,-34.4827536,150.9033131
+Port Macquarie,NSW,Inner regional,Principal referral hospitals,Public acute group A hospitals,,-31.4580174,152.8974657
+Portland,NSW,Inner regional,Unpeered & other hospitals,Very small hospitals,,45.515232,-122.6783853
+Prince Albert Tenterfield,NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,,
+Prince of Wales,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,43.64697830000001,-79.3892259
+Queanbeyan,NSW,Major cities,Medium hospitals – group 2,Public acute group C hospitals,,-35.3514641,149.2330429
+Quirindi,NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-31.508056,150.68
+Riverlands Drug & Alcohol Centre,NSW,Inner regional,Unpeered & other hospitals,Drug & alcohol hospitals,,-28.8096076,153.2899728
+Royal for Women,NSW,Major cities,Specialist women’s & children’s hospitals,Women’s hospitals,,43.8365687,-79.24948169999999
+Royal North Shore,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,43.3660943,-79.7340967
+Royal Prince Alfred,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,-33.8893087,151.183123
+Royal Prince Alfred Institute of Rheumatology & Orthopaedics,NSW,Major cities,Medium hospitals – group 2,Other acute specialised hospitals,,-33.8882665,151.1808038
+Royal Rehabilitation,NSW,Major cities,Rehabilitation hospitals,Public rehabilitation hospitals,,43.64962999999999,-79.383759
+Ryde,NSW,Major cities,Large hospitals – major city,Public acute group B hospitals,,-33.8129803,151.1049802
+Rylstone (MPS),NSW,Inner regional,Small acute hospitals – regional,Public acute group D hospitals,,-32.804319,149.9753389
+Sacred Heart Hospice,NSW,Major cities,Unpeered & other hospitals,Mixed sub- & non-acute hospitals,,41.4147767,-75.6435094
+Scott Memorial Scone,NSW,Inner regional,Small acute hospitals – regional,Public acute group C hospitals,,-32.0518299,150.8770822
+Shellharbour,NSW,Major cities,Large hospitals – major city,Public acute group B hospitals,,-34.5794495,150.8665191
+Shoalhaven Memorial,NSW,Inner regional,Principal referral hospitals,Public acute group A hospitals,,-34.8779542,150.6014089
+Singleton,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,43.6481287,-79.3844846
+Springwood,NSW,Major cities,Small non-acute hospitals,Public acute group C hospitals,,,
+St George,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,43.6514461,-79.3913874
+St Joseph's Auburn,NSW,Major cities,Other non-acute hospitals,Mixed sub- & non-acute hospitals,,42.9341316,-76.55497079999999
+St Vincent's Darlinghurst,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,-33.8802174,151.2208943
+Sutherland,NSW,Major cities,Principal referral hospitals,Public acute group A hospitals,,43.64585230000001,-79.3878634
+Sydney Children's,NSW,Major cities,Specialist women’s & children’s hospitals,Children’s hospitals,,34.2836286,-88.7150862
+Sydney Dental,NSW,Major cities,Unpeered & other hospitals,Unpeered hospitals,,43.65222259999999,-79.3787025
+Sydney/ Sydney Eye,NSW,Major cities,Medium hospitals – group 1,Public acute group B hospitals,,-33.8681704,151.2123274
+Tamworth,NSW,Inner regional,Principal referral hospitals,Public acute group A hospitals,,52.633584,-1.691032
+Temora ,NSW,Outer regional,Small acute hospitals – regional,Public acute group C hospitals,,-34.4468114,147.533896
+The Tweed Hospital,NSW,Major cities,Principal referral hospitals,Public acute group A hospitals,,-28.1771353,153.5454343
+Thomas Walker,NSW,Major cities,Psychiatric hospitals,"Public child, adolescent & young adult psychiatric hospitals",,43.7597782,-79.42006889999999
+Tibooburra,NSW,Very remote,Unpeered & other hospitals,Outpatient hospitals,,-29.4342557,142.0101006
+Tingha (MPS),NSW,Outer regional,Unpeered & other hospitals,Outpatient hospitals,,-29.9508517,151.2064778
+Tocumwal,NSW,Inner regional,Small non-acute hospitals,Public acute group D hospitals,,-35.8117304,145.5647755
+Tomaree Community,NSW,Inner regional,Small acute hospitals – regional,Public acute group D hospitals,,-32.7210769,152.140912
+Tottenham (MPS),NSW,Remote,Unpeered & other hospitals,Very small hospitals,,44.0224843,-79.80559459999999
+Trangie (MPS),NSW,Outer regional,Multi-purpose services,Very small hospitals,,-32.0307807,147.9764282
+Tresillian Care Centres,NSW,Major cities,Mothercraft hospitals,Early parenting centres,,-33.9186297,151.0975444
+Tresillian Wentworth,NSW,Major cities,Mothercraft hospitals,Early parenting centres,,,
+Trundle (MPS),NSW,Outer regional,Multi-purpose services,Very small hospitals,,-32.92112,147.7046339
+Tullamore (MPS),NSW,Outer regional,Unpeered & other hospitals,Very small hospitals,,43.790551,-79.759249
+Tumbarumba (MPS),NSW,Outer regional,Multi-purpose services,Public acute group D hospitals,,-35.77855419999999,148.0067182
+Tumut,NSW,Inner regional,Small acute hospitals – regional,Public acute group C hospitals,,-35.31086579999999,148.231162
+Urana (MPS),NSW,Outer regional,Multi-purpose services,Very small hospitals,,-35.3254434,146.2672121
+Urbenville (MPS),NSW,Outer regional,Multi-purpose services,Very small hospitals,,-28.471523,152.543087
+Vegetable Creek (MPS),NSW,Outer regional,Unpeered & other hospitals,Very small hospitals,,-29.4506775,151.5993942
+Wagga Wagga,NSW,Inner regional,Principal referral hospitals,Public acute group A hospitals,,-35.1025977,147.3655103
+Walcha (MPS),NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-30.9866117,151.5987165
+Walgett,NSW,Remote,Small acute hospitals – remote,Public acute group D hospitals,,-30.0215209,148.1167617
+Warialda (MPS),NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-29.5384276,150.5795995
+Warren (MPS),NSW,Outer regional,Multi-purpose services,Public acute group D hospitals,,43.8252861,-79.47971989999999
+Wauchope,NSW,Inner regional,Small non-acute hospitals,Public acute group C hospitals,,-31.4575902,152.7307675
+Waverley War Memorial,NSW,Major cities,Rehabilitation hospitals,Public rehabilitation hospitals,,43.6658739,-79.3929607
+Wee Waa,NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-30.2244213,149.4391935
+Wellington,NSW,Outer regional,Small acute hospitals – regional,Public acute group D hospitals,,-41.2923814,174.7787463
+Wentworth,NSW,Outer regional,Unpeered & other hospitals,Very small hospitals,,43.6384952,-79.4142313
+Wentworth Psychiatric Services,NSW,Major cities,Unpeered & other hospitals,Unpeered hospitals,,43.66151379999999,-79.38712129999999
+Werris Creek,NSW,Inner regional,Unpeered & other hospitals,Very small hospitals,,-31.3413092,150.6478444
+Westmead,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,-33.8085661,150.9869597
+Wilcannia (MPS),NSW,Very remote,Multi-purpose services,Very small hospitals,,-31.5569397,143.3853267
+Wingham,NSW,Inner regional,Rehabilitation hospitals,Public rehabilitation hospitals,,43.8879476,-81.3116601
+Wollongong,NSW,Major cities,Principal referral hospitals,Principal referral hospitals,,-34.4248336,150.8931132
+Woy Woy,NSW,Major cities,Unpeered & other hospitals,Mixed sub- & non-acute hospitals,,-33.4887953,151.3259426
+Wyalong,NSW,Outer regional,Small non-acute hospitals,Public acute group D hospitals,,-33.9258841,147.243011
+Wyong,NSW,Major cities,Principal referral hospitals,Public acute group A hospitals,,-33.2843475,151.4249427
+Yass,NSW,Inner regional,Small acute hospitals – regional,Public acute group D hospitals,,-34.8277755,148.9083038
+Young,NSW,Inner regional,Medium hospitals – group 2,Public acute group C hospitals,,43.64817619999999,-79.3979669
+Aesthetic Day Surgery,NSW,Major cities,,,Plastic & reconstructive surgery centres,-33.9651229,151.1349331
+Albury Day Surgery,NSW,Inner regional,,,Mixed day procedure hospitals,-36.07366349999999,146.8834897
+Albury-Wodonga Private Hospital,NSW,Inner regional,,,Private acute group C hospitals,-36.0751855,146.8834808
+Allowah Presbyterian Children's Hospital,NSW,Major cities,,,Other acute specialised hospitals,-33.7916876,151.0637268
+Alwyn Rehabilitation Hospital,NSW,Major cities,,,Private rehabilitation hospitals,-33.882858,151.0944457
+Armidale Private Hospital,NSW,Inner regional,,,Private acute group D hospitals,-30.5120389,151.6548607
+Ballina Day Surgery,NSW,Inner regional,,,Mixed day procedure hospitals,-28.8706622,153.5633395
+Bankstown Primary Health Care Day Surgery,NSW,Major cities,,,Endoscopy centres,-33.9143351,151.0353454
+Baringa Private Hospital,NSW,Inner regional,,,Private acute group C hospitals,-30.2790829,153.1031686
+Bathurst Private Hospital,NSW,Inner regional,,,Private acute group D hospitals,43.6534492,-79.40547699999999
+Bega Valley Private Hospital,NSW,Outer regional,,,Mixed day procedure hospitals,-36.6736049,149.8456397
+Berkeley Vale Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-33.3372738,151.4327923
+Bondi Junction Endoscopy Centre,NSW,Major cities,,,Endoscopy centres,-33.8901331,151.2494082
+Bondi Junction Private Hospital,NSW,Major cities,,,Other acute specialised hospitals,-33.8922062,151.2457835
+Boulevarde Day Surgical Centre,NSW,Major cities,,,Mixed day procedure hospitals,-33.86484950000001,150.9387428
+Brisbane Waters Private Hospital,NSW,Major cities,,,Private acute group B hospitals,-33.495278,151.321687
+Calvary Day Procedure Centre - Wagga Wagga,NSW,Inner regional,,,Mixed day procedure hospitals,-35.1160463,147.3524653
+Calvary Private Hospital Wagga Wagga,NSW,Inner regional,,,Private acute group B hospitals,-35.1190479,147.3532645
+Campbelltown Private Hospital,NSW,Major cities,,,Private acute group C hospitals,-34.0755146,150.8049798
+Carswell Day Surgery Clinic,NSW,Major cities,,,Plastic & reconstructive surgery centres,43.6468449,-79.380377
+Castle Hill Hospital,NSW,Major cities,,,Private acute group D hospitals,53.7788201,-0.4438447
+Castlecrag Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-33.8017768,151.2169189
+Central Coast Day Hospital,NSW,Major cities,,,Eye surgery centres,-33.4391622,151.3838304
+Centre for Digestive Diseases,NSW,Major cities,,,Endoscopy centres,43.6580379,-79.3917024
+Charlestown Private Hospital,NSW,Major cities,,,Other acute specialised hospitals,-32.9601499,151.6978574
+City East Specialist Day Hospital,NSW,Major cities,,,Mixed day procedure hospitals,43.6534492,-79.40547699999999
+City West Specialist Day Hospital,NSW,Major cities,,,Mixed day procedure hospitals,-33.8013752,150.982311
+Coffs Harbour Day Surgical Centre,NSW,Inner regional,,,Eye surgery centres,-30.287851,153.1239665
+Coolenberg Day Surgery,NSW,Inner regional,,,Eye surgery centres,-31.4397138,152.9094673
+Crows Nest Day Surgery,NSW,Major cities,,,Oral & maxillofacial surgery centres,-33.825076,151.1993874
+Dalcross Adventist Hospital,NSW,Major cities,,,Private acute group D hospitals,-33.767491,151.1645231
+Dee Why Endoscopy Unit,NSW,Major cities,,,Endoscopy centres,-33.7552415,151.2849959
+Delmar Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-33.7581248,151.2880857
+Diagnostic Endoscopy Centre,NSW,Major cities,,,Endoscopy centres,43.6604976,-79.3860586
+Dubbo Private Hospital,NSW,Inner regional,,,Private acute group D hospitals,-32.2368251,148.6209178
+Dudley Private Hospital,NSW,Inner regional,,,Private acute group C hospitals,-33.2819677,149.1212378
+Eastern Heart Clinic,NSW,Major cities,,,Cardiovascular health centres,43.6534088,-79.405247
+Eastern Suburbs Endoscopy Clinic,NSW,Major cities,,,Endoscopy centres,43.6556377,-79.38681079999999
+Eastern Suburbs Private Hospital,NSW,Major cities,,,Private rehabilitation hospitals,-33.9103758,151.2458487
+Epping Surgery Centre,NSW,Major cities,,,Eye surgery centres,-33.7763163,151.0712679
+Figtree Private Hospital,NSW,Major cities,,,Private acute group C hospitals,-34.4395735,150.8510562
+Focus Eye Centre,NSW,Major cities,,,Eye surgery centres,43.7094994,-79.65207579999999
+Forster Private Hospital,NSW,Inner regional,,,Private acute group C hospitals,-32.1884372,152.5136728
+Genea Day Surgery,NSW,Major cities,,,Fertility clinics,43.66905200000001,-79.393501
+Genea Liverpool,NSW,Major cities,,,Fertility clinics,-33.9218662,150.9268503
+Genea Northwest,NSW,Major cities,,,Fertility clinics,38.9175875,-77.02211059999999
+Gosford Private Hospital,NSW,Major cities,,,Private acute group B hospitals,-33.4185805,151.3491156
+Hamilton Day Surgery Centre,NSW,Major cities,,,Other specialist day hospitals,43.2311371,-79.8810286
+Harley Place Day Surgery,NSW,Major cities,,,Eye surgery centres,43.6450509,-79.385612
+Hastings Day Surgery,NSW,Inner regional,,,Endoscopy centres,40.6412418,-98.3833636
+Hirondelle Private Hospital,NSW,Major cities,,,Private rehabilitation hospitals,-33.7898838,151.1788444
+Holroyd Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-33.8463349,150.9791612
+Hunter Valley Private Hospital,NSW,Major cities,,,Private acute group C hospitals,-32.8829796,151.6951292
+Hunters Hill Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-33.8351209,151.1502233
+Hurstville Private,NSW,Major cities,,,Private acute group D hospitals,-33.9622706,151.0958865
+Hyperbaric Health Sydney,NSW,Major cities,,,Hyperbaric health centres,-33.9234805,151.1836918
+Inner West Endoscopy Centre,NSW,Major cities,,,Endoscopy centres,43.70555230000001,-79.3964407
+Insight Clinic Private Hospital,NSW,Inner regional,,,Private acute group D hospitals,43.8814559,-78.94309919999999
+Kareena Private Hospital,NSW,Major cities,,,Private acute group C hospitals,-34.0348021,151.1139379
+Kingsgrove Day Hospital,NSW,Major cities,,,Mixed day procedure hospitals,-33.9438258,151.1019901
+Lady Davidson Private Hospital,NSW,Major cities,,,Private rehabilitation hospitals,-33.6909305,151.1511172
+Lake Macquarie Private Hospital,NSW,Major cities,,,Private acute group B hospitals,-32.9816873,151.6918464
+Lawrence Hargrave Private Hospital,NSW,Major cities,,,Private rehabilitation hospitals,-34.3105039,150.9180531
+Lindfield Dialysis Clinic,NSW,Major cities,,,Dialysis clinics,43.6587074,-79.38835809999999
+Lingard Private Hospital,NSW,Major cities,,,Private acute group C hospitals,-32.9405315,151.7556541
+Lismore Private Day Surgery,NSW,Inner regional,,,Mixed day procedure hospitals,-28.80951959999999,153.2927671
+Lithgow Community Private Hospital,NSW,Inner regional,,,Private acute group D hospitals,-33.4995364,150.1273143
+Liverpool Eye Surgery,NSW,Major cities,,,Eye surgery centres,43.176084,-76.250644
+Longueville Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-33.82740709999999,151.1700038
+Macquarie St Day Surgery,NSW,Major cities,,,Plastic & reconstructive surgery centres,-33.866998,151.212042
+Macquarie University Hospital,NSW,Major cities,,,Private acute group B hospitals,-33.7733137,151.1178846
+Maitland Private Hospital,NSW,Major cities,,,Private acute group C hospitals,-32.7653773,151.5978794
+Manly Waters Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-33.8049718,151.2844421
+Marie Stopes International Newcastle,NSW,Major cities,,,Reproductive health centres,54.9716149,-1.4154209
+Marsden Eye Surgery Centre,NSW,Major cities,,,Eye surgery centres,43.76646179999999,-79.471998
+Mayo Private Hospital,NSW,Inner regional,,,Private acute group C hospitals,-31.8816919,152.4316149
+Metropolitan Rehabilitation Hospital,NSW,Major cities,,,Private rehabilitation hospitals,43.65815,-79.3853725
+Metwest Surgical,NSW,Major cities,,,Eye surgery centres,43.67955,-79.340774
+Minchinbury Community Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-33.7809748,150.8284106
+Miranda Eye Surgical Centre,NSW,Major cities,,,Eye surgery centres,-34.0324222,151.1016343
+Mogo Day Surgery,NSW,Inner regional,,,Mixed day procedure hospitals,-35.7832489,150.1437225
+Mosman Private Hospital,NSW,Major cities,,,Private acute psychiatric hospitals,-33.8348074,151.2478609
+Mt Wilga Private Hospital,NSW,Major cities,,,Private rehabilitation hospitals,-33.6922049,151.0928478
+National Day Surgery - Sydney,NSW,Major cities,,,Mixed day procedure hospitals,-33.8916757,151.1834304
+Nepean Private Hospital,NSW,Major cities,,,Private acute group C hospitals,-33.7579537,150.7132396
+NephroCare Newcastle Dialysis Clinic,NSW,Major cities,,,Dialysis clinics,43.658666,-79.3883688
+Newcastle Eye Hospital,NSW,Major cities,,,Eye surgery centres,43.9169384,-78.5915704
+Newcastle Private Hospital,NSW,Major cities,,,Private acute group B hospitals,-32.9226502,151.6986629
+North Shore Private Hospital,NSW,Major cities,,,Private acute group B hospitals,43.7337181,-79.4193926
+North Shore Specialist Day Hospital,NSW,Major cities,,,Mixed day procedure hospitals,-33.82369010000001,151.1871981
+Northern Cancer Institute - Frenchs Forest,NSW,Major cities,,,Haematology & oncology clinics,-33.7516869,151.2398983
+Northside Clinic Private Hospital,NSW,Major cities,,,Private acute psychiatric hospitals,43.6619166,-79.38566159999999
+Northside Cremorne Clinic,NSW,Major cities,,,Private acute psychiatric hospitals,-33.8335526,151.2228635
+Northside West Clinic,NSW,Major cities,,,Private acute psychiatric hospitals,43.1201525,-76.1607121
+Norwest Private Hospital,NSW,Major cities,,,Private acute group A hospitals,-33.7449926,150.9543577
+Nowra Private Hospital,NSW,Inner regional,,,Private acute group D hospitals,-34.8928672,150.6070618
+Ophthalmic Surgery Centre (North Shore),NSW,Major cities,,,Eye surgery centres,43.6268348,-79.47898219999999
+Oral Surgery Day Centre,NSW,Major cities,,,Oral & maxillofacial surgery centres,43.7632587,-79.4054287
+Orange Surgery Centre,NSW,Inner regional,,,Mixed day procedure hospitals,43.7085853,-79.4539964
+Pendlebury Clinic Private Hospital,NSW,Major cities,,,Other acute specialised hospitals,-32.9410469,151.6532549
+Peninsula Sleep Clinic,NSW,Major cities,,,Sleep centres,43.65757079999999,-79.4013045
+Pennant Hills Day Endoscopy Centre,NSW,Major cities,,,Endoscopy centres,-33.7381987,151.0742018
+Perfect Vision Eye Surgery,NSW,Major cities,,,Eye surgery centres,43.6533858,-79.3970696
+Pittwater Day Surgery,NSW,Major cities,,,Mixed day procedure hospitals,-33.6781837,151.3018462
+Port Macquarie Private Hospital,NSW,Inner regional,,,Private acute group D hospitals,-31.44170179999999,152.9093192
+President Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-34.036837,151.079568
+Prince of Wales Private Hospital,NSW,Major cities,,,Private acute group B hospitals,-33.9192208,151.238589
+Randwick Day Surgery,NSW,Major cities,,,Oral & maxillofacial surgery centres,-33.916942,151.2407792
+Regional Imaging Cardiovascular Centre,NSW,Inner regional,,,Cardiovascular health centres,43.6663211,-79.3872946
+Riverina Cancer Care Centre,NSW,Inner regional,,,Haematology & oncology clinics,-35.1198093,147.3521956
+Rosebery Day Surgery,NSW,Major cities,,,Eye surgery centres,-33.9226637,151.2073002
+Rosemont Endoscopy Centre,NSW,Major cities,,,Endoscopy centres,43.76629510000001,-79.47213909999999
+Shellharbour Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-34.5589631,150.84825
+Sight Foundation Theatre,NSW,Major cities,,,Eye surgery centres,43.6640136,-79.3943321
+Skin & Cancer Foundation (Westmead) Day Procedure Centre,NSW,Major cities,,,Plastic & reconstructive surgery centres,43.6519447,-79.40867659999999
+South Pacific Private Hospital,NSW,Major cities,,,Private acute psychiatric hospitals,43.66751439999999,-79.4320118
+South Western Endoscopy Centre,NSW,Major cities,,,Endoscopy centres,43.8438553,-79.56389999999999
+Southern Highlands Private Hospital,NSW,Inner regional,,,Private acute group C hospitals,-34.4843745,150.4225837
+Southern Medical Day Care Centre,NSW,Major cities,,,Haematology & oncology clinics,43.7548867,-79.45916400000002
+Southern Respiratory & Sleep Disorders Centre,NSW,Major cities,,,Sleep centres,43.5998134,-79.59313279999999
+Southern Suburbs Day Procedure Centre,NSW,Major cities,,,Plastic & reconstructive surgery centres,-33.9618244,151.1349713
+St George Private Hospital,NSW,Major cities,,,Private acute group B hospitals,43.5082385,-79.8606732
+St John of God Burwood Hospital,NSW,Major cities,,,Private acute psychiatric hospitals,-33.8699118,151.1002984
+St John of God Private Hospital - Richmond,NSW,Major cities,,,Private acute psychiatric hospitals,-33.5937869,150.7019331
+St Luke's Hospital,NSW,Major cities,,,Private acute group D hospitals,43.6942971,-79.3285178
+St Vincents Private Hospital Lismore,NSW,Inner regional,,,Private acute group C hospitals,-28.8202943,153.2874272
+St Vincent's Private Hospital Sydney,NSW,Major cities,,,Private acute group B hospitals,-33.880579,151.2201321
+Strathfield Private Hospital,NSW,Major cities,,,Private acute group B hospitals,-33.8719974,151.0978063
+Sussex Day Surgery,NSW,Major cities,,,Mixed day procedure hospitals,50.9912104,-0.09206539999999999
+Sutherland Heart Clinic,NSW,Major cities,,,Other acute specialised hospitals,35.1154712,-89.8136756
+Sydney Adventist Hospital,NSW,Major cities,,,Private acute group A hospitals,-33.7332733,151.0991045
+Sydney Clinic for Gastrointestinal Diseases,NSW,Major cities,,,Endoscopy centres,-33.892005,151.247113
+Sydney Day Surgery,NSW,Major cities,,,Mixed day procedure hospitals,-33.8916757,151.1834304
+Sydney Day Surgery - Prince Alfred,NSW,Major cities,,,Mixed day procedure hospitals,-33.8916757,151.1834304
+Sydney ENT & Facial Day Surgery Centre,NSW,Major cities,,,Other specialist day hospitals,-33.878982,151.2177913
+Sydney Oculoplastic Surgery,NSW,Major cities,,,Eye surgery centres,-33.8685226,151.2119293
+Sydney Retina Clinic & Day Surgery,NSW,Major cities,,,Eye surgery centres,43.6534088,-79.405247
+Sydney Southwest Private Hospital,NSW,Major cities,,,Private acute group C hospitals,-33.9172951,150.9282887
+Tamara Private Hospital,NSW,Inner regional,,,Private acute group D hospitals,-31.0775494,150.9222197
+The Hills Clinic,NSW,Major cities,,,Private acute psychiatric hospitals,43.9136881,-79.4735117
+The Hills Private Hospital,NSW,Major cities,,,Private rehabilitation hospitals,43.71810139999999,-79.5109014
+The Hornsby Sleep Disorder & Diagnostic Centre,NSW,Major cities,,,Sleep centres,43.6604976,-79.3860586
+The Mater,NSW,Major cities,,,Private acute group B hospitals,44.3905912,-79.73988659999999
+The Oculoplastics Centre Sydney,NSW,Major cities,,,Mixed day procedure hospitals,-33.7975858,151.186077
+The San Day Surgery,NSW,Major cities,,,Mixed day procedure hospitals,43.72186660000001,-79.3755994
+The Sydney Clinic,NSW,Major cities,,,Private acute psychiatric hospitals,-33.9015583,151.261006
+The Sydney Private Hospital,NSW,Major cities,,,Private acute group D hospitals,-33.8938835,151.1292184
+Toronto Private Hospital,NSW,Major cities,,,Private acute group D hospitals,43.8208543,-79.40391939999999
+Tweed Day Surgery,NSW,Major cities,,,Mixed day procedure hospitals,-28.1787137,153.5398842
+Ulladulla Endoscopy & Medical Centre,NSW,Inner regional,,,Endoscopy centres,-35.3587157,150.4735021
+Vision Eye Institute Chatswood,NSW,Major cities,,,Eye surgery centres,-33.795293,151.187377
+Vision Eye Institute Hurstville,NSW,Major cities,,,Eye surgery centres,-33.9673467,151.1102677
+Vista Laser Eye Clinics NSW,NSW,Major cities,,,Eye surgery centres,-33.795293,151.187377
+Wagga Endoscopy Centre,NSW,Inner regional,,,Endoscopy centres,-35.115799,147.365914
+Warners Bay Private Hospital,NSW,Major cities,,,Private acute group C hospitals,-32.9651406,151.6400381
+Wesley Hospital Ashfield,NSW,Major cities,,,Private acute psychiatric hospitals,-33.8923456,151.1167912
+Wesley Hospital Kogarah,NSW,Major cities,,,Private acute psychiatric hospitals,-33.96828480000001,151.1288995
+Westmead Private Hospital,NSW,Major cities,,,Private acute group B hospitals,-33.8029433,150.9825031
+Westmead Rehabilitation Hospital,NSW,Major cities,,,Private rehabilitation hospitals,-33.8194403,150.9811791
+Westmed Centre,NSW,Major cities,,,Mixed day procedure hospitals,41.0314273,-73.7416259
+Wollongong Day Surgery,NSW,Major cities,,,Mixed day procedure hospitals,-34.4257403,150.8814111
+Wolper Jewish Hospital,NSW,Major cities,,,Private rehabilitation hospitals,-33.8839381,151.2409762
